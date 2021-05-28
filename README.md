@@ -1,0 +1,1 @@
+Second attempt to get into programming through The Odin Project.
